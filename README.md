@@ -49,5 +49,3 @@ If you'd like to contribute to this project, please follow the Contributing Guid
 
 #Contact
 For any inquiries or suggestions, feel free to reach out to [Your Name] at your.email@example.com.
-
-```
