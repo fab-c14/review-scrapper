@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  Short description of your awesome review scraper project. 🚀
+   Awesome review scraper project. 🚀
 </p>
 
 <p align="center">
